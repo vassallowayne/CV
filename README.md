@@ -1,9 +1,3 @@
----
-title: "Wayne Vassallo | Cyber Security Specialist"
-description: "Cyberpunk-styled Markdown CV for GitHub Pages"
-dark_theme: true
----
-
 # 💻 Wayne Vassallo
 ### *Cyber Security Specialist | Red Teamer | Systems Engineer*
 
