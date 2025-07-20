@@ -76,4 +76,4 @@ Coming soon: public red team scripts, AWS automation tools, and adversary simula
 
 ---
 
-> "When you eliminate the impossible, whatever remains, however improbable, must be the truth." – *Sherlock Holmes*
+> “He who sweats more in training bleeds less in war.” – Spartan Proverb
