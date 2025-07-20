@@ -2,7 +2,6 @@
 ### *Cyber Security Specialist | Red Teamer | Systems Engineer*
 
 📍 South West, United Kingdom  
-📞 +44 7925 971686  
 📧 [waynevassallo@hotmail.com](mailto:waynevassallo@hotmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/wayne-vassallo-963069184)
 
