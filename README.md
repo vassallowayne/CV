@@ -14,9 +14,13 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 
 ## Key Skills
 **Offensive Security & Red Teaming**
+
 Penetration Testing (Web, Cloud, Internal, External)
+
 Adversary Simulation, Threat Emulation (MITRE ATT&CK)
+
 Tooling: Cobalt Strike, mimikatz, Rubeus, BloodHound, PowerView
+
 Access Token Abuse, Kerberos Attacks, Lateral Movement Techniques
 
 **Security Engineering & Cloud Hardening**
