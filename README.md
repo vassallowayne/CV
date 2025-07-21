@@ -43,12 +43,16 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 
 ## Career History
 ### **Senior Security Engineer** – *Aptos, UK (Jan 2022 – Present)*
-- Led Red Team operations targeting hybrid cloud-connected Active Directory environments
-- Mapped attack paths, simulated privilege escalation, and reported via MITRE ATT&CK
-- Designed and executed penetration tests across distributed systems
-- Developed IR playbooks, automated alerting pipelines, and IAM policy controls
-- Maintained security in AWS, Azure & GCP with GuardDuty, Security Hub, and IAM tuning
-- Delivered internal cyber training, reducing phishing click rates by 20%
+**Offensive Security**
+- Led and executed end-to-end penetration tests across multiple product lines, supporting compliance requirements (PCI DSS, SOC2) for varied technology stacks
+- Initiated and built out the company's first internal Red Team capability, performing reconnaissance, threat emulation, and reporting aligned to MITRE ATT&CK
+- Contributed to internal security testing standards and methodology development for offensive assessments
+**Security Engineering & DevSecOps**
+- Designed and deployed cloud security controls across AWS, GCP, and Azure environments
+- Engineered automation workflows using Lambda, Python, PowerShell, and Bash to streamline security operations
+- Introduced and configured container security platforms (Aqua, StackRox) and cluster management via Kubernetes and Kops
+- Rolled out the company’s first dynamic application security testing (DAST) pipeline using StackHawk
+- Built detection and response playbooks and worked closely with engineering to harden infrastructure-as-code pipelines (Harness)
 
 ### **Local Security Administrator** – *Fujitsu, UK (Oct 2020 – Dec 2021)*
 - Led the build and tuning of a SIEM capability (LogRhythm) from the ground up to support critical infrastructure, reducing false positives and enhancing analyst efficiency across distributed teams
