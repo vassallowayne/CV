@@ -47,6 +47,7 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 - Led and executed end-to-end penetration tests across multiple product lines, supporting compliance requirements (PCI DSS, SOC2) for varied technology stacks
 - Initiated and built out the company's first internal Red Team capability, performing reconnaissance, threat emulation, and reporting aligned to MITRE ATT&CK
 - Contributed to internal security testing standards and methodology development for offensive assessments
+
 **Security Engineering & DevSecOps**
 - Designed and deployed cloud security controls across AWS, GCP, and Azure environments
 - Engineered automation workflows using Lambda, Python, PowerShell, and Bash to streamline security operations
