@@ -51,9 +51,11 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 - Delivered internal cyber training, reducing phishing click rates by 20%
 
 ### **Local Security Administrator** – *Fujitsu, UK (Oct 2020 – Dec 2021)*
-- Deployed SIEM tools, reduced alert noise by 30%, tuned for real-time visibility
-- Managed crypto key lifecycles across global network infrastructure
-- Coordinated secure network and app design across international teams
+- Led the build and tuning of a SIEM capability (LogRhythm) from the ground up to support critical infrastructure, reducing false positives and enhancing analyst efficiency across distributed teams
+- Acted as a final security gatekeeper for privileged access, authorising elevated admin rights following risk-based justifications
+- Collaborated with analysts in remote offices to coordinate alert tuning and streamline detection engineering workflows
+- Supported a global cryptographic key rollover project for secure systems, conducting sensitive on-site operations and coordinating closely with senior stakeholders to minimise downtime and ensure mission continuity
+- Operated within a high-assurance, zero-trust environment, responding swiftly to real-time alerts and ensuring threat visibility remained operational 24/7
 
 ### **Royal Marines Commando** – *Ministry of Defence, UK (Feb 2013 – Sep 2020)*
 - Delivered high-risk tactical cyber operations (mobile forensics, SIGINT, OSINT)
