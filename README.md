@@ -13,14 +13,27 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 ---
 
 ## Key Skills
-**Red Teaming & Adversary Simulation**: Cobalt Strike, mimikatz, Rubeus, Bloodhound  
-**Post-Exploitation & Lateral Movement**: Access Tokens, Kerberos Abuse, PowerView, PTH/PTT  
-**Penetration Testing & Enumeration**: Burp Suite, Metasploit, WinRM, GPO Abuse, AD Enumeration  
-**Cloud Security Engineering**: AWS (IAM, GuardDuty, Lambda), Azure, GCP  
-**Security Engineering**: SIEM (Splunk), IDS/IPS, Firewall Config, Alerting Automation  
-**Programming & Scripting**: Python, PowerShell, Bash  
-**Compliance & Frameworks**: MITRE ATT&CK, NIST, PCI DSS, SOC2, OWASP  
-**Systems Engineering**: Windows, Linux, IAM design, network hardening
+**Offensive Security & Red Teaming**
+Penetration Testing (Web, Cloud, Internal, External)
+Adversary Simulation, Threat Emulation (MITRE ATT&CK)
+Tooling: Cobalt Strike, mimikatz, Rubeus, BloodHound, PowerView
+Access Token Abuse, Kerberos Attacks, Lateral Movement Techniques
+
+**Security Engineering & Cloud Hardening**
+AWS (IAM, Lambda, GuardDuty, Security Hub), GCP, Azure
+Kubernetes, Kops, Container Security (Aqua, StackRox)
+SIEM Tuning, Alert Engineering, Detection Playbooks
+Identity & Access Management, Firewall & Network Controls
+
+**DevSecOps & Automation**
+CI/CD Security (Harness), Infrastructure as Code
+Scripting & Automation: Python, PowerShell, Bash
+DAST (StackHawk), Vulnerability Management Pipelines
+Lambda Security Workflows, Security-as-Code Integration
+
+**Governance & Compliance**
+PCI DSS, SOC2, NIST, MITRE ATT&CK, OWASP Top 10
+Risk-Based Access Control, Change Management Authorisation
 
 ---
 
