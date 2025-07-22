@@ -93,7 +93,12 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 ---
 
 ## Repositories & Code
-Coming soon: public red team scripts, AWS automation tools, and adversary simulation labs.
+## Penetration Testing
+- [ping_subnet](https://github.com/vassallowayne/ping_subnet): Python script that scans a subnet and lists reachable hosts using ICMP echo requests.
+
+## Red Teaming
+
+## Security Engineering
 
 ---
 
