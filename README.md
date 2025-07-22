@@ -93,10 +93,8 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 ---
 
 ## Repositories & Code
-**Penetration Testing**
+**Penetration Testing & Red Teaming**
 - [ping_subnet](https://github.com/vassallowayne/ping_subnet): Python script that scans a subnet and lists reachable hosts using ICMP echo requests.
-
-**Red Teaming**
 
 **Security Engineering**
 - [aws_s3_inventory](https://github.com/vassallowayne/aws_s3_inventory): Python script that lists all s3 buckets in an AWS profile, or multiple profiles
