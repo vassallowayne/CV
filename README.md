@@ -8,7 +8,7 @@
 ---
 
 ## Professional Summary
-Versatile Cyber Security Specialist with 10+ years of hybrid technical and operational experience, combining elite military discipline with high-level cyber proficiency. While Red Teaming remains a core strength, I offer a broad portfolio across penetration testing, security engineering, and cloud/system architecture. Adept at simulating sophisticated attack chains, securing hybrid cloud environments, and automating defensive processes. Known for blending stealth, strategy, and system-level thinking.
+Versatile Cyber Security Specialist with 10+ years of hybrid technical and operational experience, combining elite military discipline with high-level cyber proficiency. While Penetration Testing remains a core strength, I offer a broad portfolio across red teaming, security engineering, and cloud/system architecture. Adept at simulating sophisticated attack chains, securing hybrid cloud environments, and automating defensive processes. Known for blending stealth, strategy, and system-level thinking.
 
 ---
 
