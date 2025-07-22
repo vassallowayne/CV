@@ -99,6 +99,7 @@ Versatile Cyber Security Specialist with 10+ years of hybrid technical and opera
 **Red Teaming**
 
 **Security Engineering**
+- [aws_s3_inventory](https://github.com/vassallowayne/aws_s3_inventory): Python script that lists all s3 buckets in an AWS profile, or multiple profiles
 
 ---
 
